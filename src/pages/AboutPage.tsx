@@ -26,7 +26,7 @@ export const AboutPage: React.FC = () => {
 
             <div className="flex flex-wrap gap-4 mb-8">
               <a
-                href="https://github.com/your-repo"
+                href="https://github.com/Tofuswang/cryptotest"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-4 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-700 transition-colors"
