@@ -3,6 +3,7 @@ import { ArrowLeft, Github, FileText } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { ContributorsList } from '../components/ContributorsList';
 import { DiscussionSection } from '../components/DiscussionSection';
+import { VideoSection } from '../components/VideoSection';
 
 export const AboutPage: React.FC = () => {
   return (
@@ -45,6 +46,8 @@ export const AboutPage: React.FC = () => {
                 查看共筆文件
               </a>
             </div>
+
+            <VideoSection />
 
             <h2 className="text-xl font-semibold mt-8 mb-4">專案特色</h2>
             <ul className="list-disc pl-6 mb-6 text-gray-600">
