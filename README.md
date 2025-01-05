@@ -39,7 +39,7 @@ npm run preview
 
 ## 📚 學習資源
 
-- [KK6 的加密貨幣投資教學系列](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM)
+- [K66 的加密貨幣投資教學系列](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM)
 - [Cofacts 真的假的](https://cofacts.tw/) - 查證可疑訊息的平台
 
 ## 🤝 參與貢獻
@@ -63,7 +63,7 @@ npm run preview
 ## 👥 貢獻者
 
 - Tofus - 專案發起人（坑主）
-- KK6 - Youtube 內容貢獻者
+- K66 - Youtube 內容貢獻者
 - Asuka - 資安背景、測驗題貢獻者
 
 ## 🔗 相關連結

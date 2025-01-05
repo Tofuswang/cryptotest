@@ -13,7 +13,7 @@ const contributors: Contributor[] = [
     role: "專案發起人（坑主）"
   },
   {
-    name: "KK6",
+    name: "K66",
     role: "Youtube 內容貢獻者",
     youtubeUrl: "https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM"
   },
