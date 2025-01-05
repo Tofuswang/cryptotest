@@ -9,7 +9,7 @@ export const LandingPage: React.FC = () => {
         <div className="text-center">
           <Bitcoin className="w-20 h-20 text-orange-500 mx-auto mb-6" />
           <h1 className="text-4xl font-bold text-gray-900 mb-4 sm:text-5xl">
-            蛤？你說你要投資加密貨幣？
+            先別急著投資加密貨幣，這些事情...先搞懂再說！ 
           </h1>
           <p className="text-xl text-gray-600 mb-8">
             在投資加密貨幣之前，作為你的好朋朋，先幫我填一下這份測驗
