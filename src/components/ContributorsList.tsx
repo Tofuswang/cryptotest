@@ -15,7 +15,7 @@ const contributors: Contributor[] = [
     githubUrl: "https://github.com/Tofuswang"
   },
   {
-    name: "KK6",
+    name: "K66",
     role: "Youtube 內容貢獻者",
     githubUrl: "https://github.com/k66inthesky",
     youtubeUrl: "https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM"
