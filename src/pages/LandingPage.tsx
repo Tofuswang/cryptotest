@@ -42,8 +42,8 @@ export const LandingPage: React.FC = () => {
                     <Youtube className="w-16 h-16 text-white opacity-80" />
                   </div>
                 </div>
-                <h3 className="font-medium text-lg text-gray-900 mb-2">投資新挑戰：從股票到加密幣</h3>
-                <p className="text-gray-600">為了讓自己比較不容易上當受騙，來看看網友 KK6 作為一名和你我一樣的韭菜，是如何看待加密貨幣投資的</p>
+                <h3 className="font-medium text-lg text-gray-900 mb-2">先來看看韭菜 K66 是怎麼看加密貨幣的</h3>
+                <p className="text-gray-600">為了讓自己比較不容易上當受騙，來看看網友 K66 作為一名和你我一樣的韭菜，是如何看待加密貨幣投資的</p>
               </a>
             </div>
           </div>
